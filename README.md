@@ -30,23 +30,3 @@ Before you can use this plugin, you need to install the provided WordPress proje
 ## Usage
 
 For usage instructions and how to create and manage projects using the plugin, please refer to the "Usage" section provided in this readme.
-
-## Screenshots
-
-![Project Example](screenshot.png)
-
-## Frequently Asked Questions
-
-For answers to common questions and additional information, refer to the "Frequently Asked Questions" section in this readme.
-
-## Changelog
-
-For details on version history and updates, consult the "Changelog" section in this readme.
-
-## License
-
-This plugin is released under the [MIT License](LICENSE).
-
-## Contact
-
-For support or inquiries, contact us at [your-email@example.com](mailto:your-email@example.com).
